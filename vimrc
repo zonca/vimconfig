@@ -93,3 +93,5 @@ map <silent><A-Right> :tabnext<CR>
 map <silent><A-Left> :tabprevious<CR>
 
 set cursorline
+
+map <F2> :NERDTreeToggle<CR>
