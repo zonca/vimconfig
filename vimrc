@@ -78,6 +78,7 @@ set showmatch		" Show matching brackets.
 set ignorecase		" Do case insensitive matching
 set incsearch		" Incremental search
 set autowrite		" Automatically save before commands like :next and :make
+set paste
 
 " Source a global configuration file if available
 if filereadable("/etc/vim/vimrc.local")
