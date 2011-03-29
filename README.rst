@@ -5,8 +5,9 @@ VIM
 
 for checking out the plugins, you need to run:
 
- * git submodule init
- * git submodule update
+    git submodule init
+    git submodule update
 
 it is necessary to create a symbolic link for .vimrc:
-ln -s .vim/vimrc .vimrc
+
+    ln -s .vim/vimrc .vimrc
